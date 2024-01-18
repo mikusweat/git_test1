@@ -1,0 +1,3 @@
+# git_text
+My firt Github repo!
+Hello Odin!
